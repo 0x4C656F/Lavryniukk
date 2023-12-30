@@ -2,7 +2,11 @@
 
 ## 👋 Introduction
 
-Brief introduction about yourself.
+
+In 2018, I started my coding journey with a simple Python game, sparking my passion for programming. 
+I quickly moved on to web development, creating my first website with HTML and CSS. 
+After a brief stint in game development using C#, I returned to Python to develop a text encryption app. 
+By 2021, I discovered my love for JavaScript, leading me to where I am today: a passionate, ever-evolving coder. Since then, I've delved into modern cool stuff like front-end frameworks, backend-framworks, databases and libraries.
 
 ## 🔧 Technologies & Tools
 
@@ -25,30 +29,3 @@ Brief introduction about yourself.
 <img src="./images/sass-seeklogo.com.svg" alt="Sass" width="80" height="80"/>
 <div>
 
-<!-- Repeat for other tools -->
-
-## 🌟 Featured Projects
-
-### Project 1
-
-[![](link-to-project-image)](link-to-live-demo)
-
-- **Description**: Brief project description.
-- **Repo**: [GitHub](link-to-repo)
-
-### Project 2
-
-[![](link-to-project-image)](link-to-live-demo)
-
-- **Description**: Brief project description.
-- **Repo**: [GitHub](link-to-repo)
-
-## 📈 GitHub Stats
-
-![](link-to-github-stats)
-
-## 📫 How to Reach Me
-
-- [LinkedIn](your-linkedin)
-- [Twitter](your-twitter)
-- 📧 Email: your-email@example.com
