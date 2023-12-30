@@ -1,4 +1,4 @@
-# [Your Name]
+# [Lavryniuk Lev]
 
 ## 👋 Introduction
 Brief introduction about yourself.
