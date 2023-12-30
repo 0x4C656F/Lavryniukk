@@ -1,10 +1,11 @@
-# [Lavryniuk Lev]
+# Lavryniuk Lev
 
 ## 👋 Introduction
 Brief introduction about yourself.
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Tool-Nextjs-blue) 
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
+
 <!-- Repeat for other tools -->
 
 ## 🌟 Featured Projects
