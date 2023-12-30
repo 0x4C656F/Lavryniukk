@@ -6,7 +6,7 @@ Brief introduction about yourself.
 
 ## 🔧 Technologies & Tools
 
-<img src="./images/auth0-seeklogo.com.svg" alt="Auth0" width="40" height="40"/>
+<div><img src="./images/auth0-seeklogo.com.svg" alt="Auth0" width="40" height="40"/>
 <img src="./images/expressjs-icon.svg" alt="Express.js" width="40" height="40"/>
 <img src="./images/html5-without-wordmark-color.svg" alt="HTML5" width="40" height="40"/>
 <img src="./images/javascript-js-seeklogo.com.svg" alt="JavaScript" width="40" height="40"/>
@@ -20,7 +20,7 @@ Brief introduction about yourself.
 <img src="https://www.rust-lang.org/logos/rust-logo-128x128.png" alt="Rust" width="40" height="40"/>
 <img src="./images/sass-seeklogo.com.svg" alt="Sass" width="40" height="40"/>
 <img src="./images/typescript-seeklogo.com.svg" alt="TypeScript" width="40" height="40"/>
-<img src="./images/css-3-seeklogo.com.svg" alt="CSS3" width="40" height="40"/>
+<img src="./images/css-3-seeklogo.com.svg" alt="CSS3" width="40" height="40"/><div>
 
 <!-- Repeat for other tools -->
 
