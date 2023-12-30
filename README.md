@@ -17,7 +17,7 @@ Brief introduction about yourself.
 <img src="./images/python-seeklogo.com.svg" alt="Python" width="40" height="40"/>
 <img src="./images/react-query-seeklogo.com.svg" alt="React Query" width="40" height="40"/>
 <img src="./images/react-seeklogo.com.svg" alt="React" width="40" height="40"/>
-<img src="./images/rust-seeklogo.com.svg" alt="Rust" width="40" height="40"/>
+<img src="https://www.rust-lang.org/logos/rust-logo-128x128.png" alt="Rust" width="40" height="40"/>
 <img src="./images/sass-seeklogo.com.svg" alt="Sass" width="40" height="40"/>
 <img src="./images/typescript-seeklogo.com.svg" alt="TypeScript" width="40" height="40"/>
 <img src="./images/css-3-seeklogo.com.svg" alt="CSS3" width="40" height="40"/>
