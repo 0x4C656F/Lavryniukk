@@ -1,6 +1,6 @@
 # Lavryniuk Lev
 
-## 👋 Introduction
+## 🛣️ My journey
 
 ---
 
