@@ -2,12 +2,32 @@
 
 ## 👋 Introduction
 
+---
 
-In 2018, I started my coding journey with a simple Python game, sparking my passion for programming. 
-I quickly moved on to web development, creating my first website with HTML and CSS. 
-After a brief stint in game development using C#, I returned to Python to develop a text encryption app. 
-By 2021, I discovered my love for JavaScript, leading me to where I am today: a passionate, ever-evolving coder. Since then, I've delved into modern cool stuff like front-end frameworks, backend-framworks, databases and libraries.
+🌟 **2018: The Beginning**
+- **Python Adventure**: Jump-started my coding journey with a _Python-based game_, igniting my passion for programming.
 
+---
+
+🌐 **Web Development Foray**
+- **HTML & CSS**: Transitioned to web development, crafting my _first website_ and diving deep into front-end magic.
+
+---
+
+🔐 **Python Revisited**
+- **Text Encryption App**: Returned to Python's embrace, developing a _text encryption application_, showcasing versatility and creativity.
+
+---
+
+💻 **2021: The JavaScript Era**
+- **A New Love**: Discovered an affinity for JavaScript, marking a pivotal moment in my coding journey as a _passionate and evolving coder_.
+
+---
+
+🛠️ **Diving into Modern Tech**
+- **Front-End and Back-End Frameworks, Databases, Libraries**: Since embracing JavaScript, I've immersed myself in the latest and coolest tech in both front-end and back-end frameworks, databases, and an array of libraries, continually fueling my growth and innovation.
+
+---
 ## 🔧 Technologies & Tools
 
 <div>
