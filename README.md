@@ -17,7 +17,7 @@ Brief introduction about yourself.
 <img src="./images/react-seeklogo.com.svg" alt="React" width="80" height="80"/>
 <img src="./images/next-js-icon-seeklogo.com.svg" alt="Next.js" width="80" height="80"/>
 
-<img src="./images/expressjs-icon.svg" alt="Express.js" width="80" height="80"/>
+<img src="https://github.com/openjs-foundation/artwork/blob/master/projects/express/express-hex-sticker.png" alt="Express.js" width="80" height="80"/>
 <img src="./images/mongodb-seeklogo.com.svg" alt="MongoDB" width="80" height="80"/>
 <img src="./images/nestjs-seeklogo.com.svg" alt="NestJS" width="80" height="80"/>
 <img src="./images/react-query-seeklogo.com.svg" alt="React Query" width="80" height="80"/>
