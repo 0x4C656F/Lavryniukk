@@ -5,29 +5,35 @@
 ---
 
 🌟 **2018: The Beginning**
+
 - **Python Adventure**: Jump-started my coding journey with a _Python-based game_, igniting my passion for programming.
 
 ---
 
 🌐 **Web Development Foray**
+
 - **HTML & CSS**: Transitioned to web development, crafting my _first website_ and diving deep into front-end magic.
 
 ---
 
 🔐 **Python Revisited**
+
 - **Text Encryption App**: Returned to Python's embrace, developing a _text encryption application_, showcasing versatility and creativity.
 
 ---
 
 💻 **2021: The JavaScript Era**
+
 - **A New Love**: Discovered an affinity for JavaScript, marking a pivotal moment in my coding journey as a _passionate and evolving coder_.
 
 ---
 
 🛠️ **Diving into Modern Tech**
+
 - **Front-End and Back-End Frameworks, Databases, Libraries**: Since embracing JavaScript, I've immersed myself in the latest and coolest tech in both front-end and back-end frameworks, databases, and an array of libraries, continually fueling my growth and innovation.
 
 ---
+
 ## 🔧 Technologies & Tools
 
 <div>
@@ -40,6 +46,7 @@
 <img src="./images/nodejs-seeklogo.com.svg" alt="Node.js" width="80" height="80"/>
 <img src="./images/react-seeklogo.com.svg" alt="React" width="80" height="80"/>
 <img src="./images/next-js-icon-seeklogo.com.svg" alt="Next.js" width="80" height="80"/>
+<img src="./images/vue.svg" alt="Next.js" width="80" height="80"/>
 
 <img src="https://github.com/openjs-foundation/artwork/blob/master/projects/express/express-hex-sticker.png" alt="Express.js" width="80" height="80"/>
 <img src="./images/mongodb-seeklogo.com.svg" alt="MongoDB" width="80" height="80"/>
@@ -48,4 +55,3 @@
 <img src="./images/auth0-seeklogo.com.svg" alt="Auth0" width="80" height="80"/>
 <img src="./images/sass-seeklogo.com.svg" alt="Sass" width="80" height="80"/>
 <div>
-
