@@ -47,6 +47,7 @@
 <img src="./images/react-seeklogo.com.svg" alt="React" width="80" height="80"/>
 <img src="./images/next-js-icon-seeklogo.com.svg" alt="Next.js" width="80" height="80"/>
 <img src="./images/vue.svg" alt="Vue.js" width="80" height="80"/>
+<img src="./images/nuxt.svg" alt="Vue.js" width="80" height="80"/>
 
 <img src="https://github.com/openjs-foundation/artwork/blob/master/projects/express/express-hex-sticker.png" alt="Express.js" width="80" height="80"/>
 <img src="./images/mongodb-seeklogo.com.svg" alt="MongoDB" width="80" height="80"/>
