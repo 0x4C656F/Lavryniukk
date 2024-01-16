@@ -51,6 +51,8 @@
 
 <img src="https://github.com/openjs-foundation/artwork/blob/master/projects/express/express-hex-sticker.png" alt="Express.js" width="80" height="80"/>
 <img src="./images/mongodb-seeklogo.com.svg" alt="MongoDB" width="80" height="80"/>
+<img src="./images/sqlite.svg" alt="SQLite" width="80" height="80"/>
+
 <img src="./images/nestjs-seeklogo.com.svg" alt="NestJS" width="80" height="80"/>
 <img src="./images/react-query-seeklogo.com.svg" alt="React Query" width="80" height="80"/>
 <img src="./images/auth0-seeklogo.com.svg" alt="Auth0" width="80" height="80"/>
