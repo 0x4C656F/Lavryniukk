@@ -1,40 +1,6 @@
 # Lavryniuk Lev
 
-## 🛣️ My journey
-
----
-
-🌟 **2018: The Beginning**
-
-- **Python Adventure**: Jump-started my coding journey with a _Python-based game_, igniting my passion for programming.
-
----
-
-🌐 **Web Development Foray**
-
-- **HTML & CSS**: Transitioned to web development, crafting my _first website_ and diving deep into front-end magic.
-
----
-
-🔐 **Python Revisited**
-
-- **Text Encryption App**: Returned to Python's embrace, developing a _text encryption application_, showcasing versatility and creativity.
-
----
-
-💻 **2021: The JavaScript Era**
-
-- **A New Love**: Discovered an affinity for JavaScript, marking a pivotal moment in my coding journey as a _passionate and evolving coder_.
-
----
-
-🛠️ **Diving into Modern Tech**
-
-- **Front-End and Back-End Frameworks, Databases, Libraries**: Since embracing JavaScript, I've immersed myself in the latest and coolest tech in both front-end and back-end frameworks, databases, and an array of libraries, continually fueling my growth and innovation.
-
----
-
-## 🔧 Technologies & Tools
+_I just like creating cool stuff_
 
 <div>
 <img src="./images/typescript-seeklogo.com.svg" alt="TypeScript" width="80" height="80"/>
