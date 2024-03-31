@@ -2,6 +2,8 @@
 
 _I just like creating cool stuff_
 
+
+## This is what i know: 
 <div>
 <img src="./images/typescript-seeklogo.com.svg" alt="TypeScript" width="80" height="80"/>
 <img src="./images/javascript-js-seeklogo.com.svg" alt="JavaScript" width="80" height="80"/>
