@@ -6,7 +6,7 @@ _I just like creating cool stuff_
 
 ### Programming Languages
 
-<img src="./images/javascript-js-seeklogo.com.svg" width="50"> <img src="./images/typescript-seeklogo.com.svg" width="50"> <img src="./images/python-seeklogo.com.svg" width="50"> <img src="https://www.rust-lang.org/logos/rust-logo-128x128.png" width="50"> <img src="./images/html5-without-wordmark-color.svg" width="50"> <img src="./images/css-3-seeklogo.com.svg" width="50">
+<img src="./images/javascript-js-seeklogo.com.svg" width="50"> <img src="./images/typescript-seeklogo.com.svg" width="50"> <img src="./images/python-seeklogo.com.svg" width="50"> <img src="https://www.rust-lang.org/logos/rust-logo-128x128.png" width="50"> <img src="./images/html5-without-wordmark-color.svg" width="50"> <img src="./images/css-3-seeklogo.com.svg" width="50"><img src="./images/java.svg" width="50">
 
 ### Frameworks and Libraries
 
