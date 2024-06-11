@@ -1,6 +1,6 @@
 # <h1 style="background: linear-gradient(to right, #A6FFBF, #66B78A, #7EDFA4, #56A07A); -webkit-background-clip: text; -webkit-text-fill-color: transparent; letter-spacing: 10px; margin: auto; width:100%; display:flex;justify-content:center">Lev Lavryniuk</h1>
 
-<i style="">"I just like creating cool stuff"</i>
+> _"I just like creating cool stuff"_
 
 ## <p style="background: linear-gradient(to right, #80FF9F, #408F60); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Skills and Technologies</p>
 
