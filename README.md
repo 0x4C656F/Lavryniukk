@@ -1,4 +1,4 @@
-# <h1 style="background: linear-gradient(to right, #A6FFBF, #66B78A, #7EDFA4, #56A07A); -webkit-background-clip: text; -webkit-text-fill-color: transparent; letter-spacing: 10px; margin: auto; width:100%; display:flex;justify-content:center">Lev Lavryniuk</h1>
+# Lev Lavryniukkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
 
 > _"I just like creating cool stuff"_
 
