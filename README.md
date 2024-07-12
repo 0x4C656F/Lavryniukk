@@ -2,6 +2,7 @@
 
 > _"I just like creating cool stuff"_
 
+Love svelte and rust
 ## <p style="background: linear-gradient(to right, #80FF9F, #408F60); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Skills and Technologies</p>
 
 ### <p style="background: linear-gradient(to right, #80FF9F, #408F60); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Programming Languages</p>
